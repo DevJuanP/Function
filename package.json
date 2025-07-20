@@ -1,0 +1,13 @@
+{
+  "name": "mate2",
+  "version": "1.0.0",
+  "main": "inecuaciones_n.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fn":"node inecuaciones_n.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
